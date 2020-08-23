@@ -16,9 +16,9 @@ The only Python dependencies not in the standard library are:
 
 
 
-**Training**
+**Running**
 
-To use this you need to install required libraries.
+To run this game you need to install required libraries.
 
 To install pygame libraries run:
 
